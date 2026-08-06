@@ -51,3 +51,18 @@
   object-fit: contain;
   transform: scale(1.12);
 }
+.hero-grid{
+    display:block;
+}
+
+.hero-grid > div:first-child{
+    max-width:760px;
+}
+
+.hero-grid > aside{
+    display:none;
+}
+
+.hero .stats{
+    max-width:720px;
+}
