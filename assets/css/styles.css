@@ -66,3 +66,6 @@
 .hero .stats{
     max-width:720px;
 }
+#recursos{
+  display:none !important;
+}
